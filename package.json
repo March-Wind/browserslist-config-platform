@@ -1,0 +1,19 @@
+{
+  "name": "browserslist-config-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mobile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/March-Wind/browserslist-config-platform.git"
+  },
+  "author": "March",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/March-Wind/browserslist-config-platform/issues"
+  },
+  "homepage": "https://github.com/March-Wind/browserslist-config-platform#readme"
+}
