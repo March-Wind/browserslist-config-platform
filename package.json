@@ -1,5 +1,5 @@
 {
-  "name": "browserslist-config-platform",
+  "name": "@marchyang/browserslist-config-platform",
   "version": "1.0.2",
   "description": "",
   "main": "mobile.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/March-Wind/browserslist-config-platform.git"
   },
-  "author": "March",
+  "author": "@marchyang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/March-Wind/browserslist-config-platform/issues"
